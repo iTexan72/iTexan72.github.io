@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:9D8D27D8-A3D4-4910-BBEF-B5EAF21056E1</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-11-15T17:33:20-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:0A0A9236-21D0-40DF-AAA6-3767FE2C70E8</id>
+  <title>Christmas 2018</title>
+  <title xmlns="urn:iweb:">Christmas 2018</title>
+  <in-navbar xmlns="urn:iweb:">0A0A9236-21D0-40DF-AAA6-3767FE2C70E8</in-navbar>
+  <link rel="alternate" href="Christmas_2018.html"/>
+  <updated>2018-11-15T17:33:20.001-06:00</updated>
+  <content>Christmas 2018</content>
+ </entry>
+</feed>
